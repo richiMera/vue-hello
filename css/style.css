@@ -7,6 +7,13 @@
   align-items: center;
 }
 
+.btn {
+  width: 100px;
+  height: 40px;
+  background-color: lightblue;
+  outline: none;
+  cursor: pointer;
+}
 img {
   width: 800px;
   margin: 50px 0;

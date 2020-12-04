@@ -9,10 +9,10 @@ var app = new Vue({
   methods: {
     showImage : function() {
       if(this.opacity == "opacity") {
-        this.opacity = "altro"
+        this.opacity = ""
       } else {
         this.opacity = "opacity"
-      }
+      };
     }
   }
 });
